@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshjangra
+- 👋 Hi, I’m @Termuxtest1
 - 👀 I’m interested in hacking and programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my friends
